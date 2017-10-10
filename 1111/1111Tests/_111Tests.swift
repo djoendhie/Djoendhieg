@@ -1,15 +1,15 @@
 //
-//  shinTests.swift
-//  shinTests
+//  _111Tests.swift
+//  1111Tests
 //
 //  Created by SMK IDN MI on 10/10/17.
 //  Copyright © 2017 Be Dev. All rights reserved.
 //
 
 import XCTest
-@testable import shin
+@testable import _111
 
-class shinTests: XCTestCase {
+class _111Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()
@@ -22,7 +22,7 @@ class shinTests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functiolklkklmlkmnal test case.
+        // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
@@ -34,4 +34,3 @@ class shinTests: XCTestCase {
     }
     
 }
-
